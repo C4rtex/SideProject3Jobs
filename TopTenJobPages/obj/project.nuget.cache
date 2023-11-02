@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "++XbWx1wwqSlbZV6e+1og00cVI45L+iE4dMTtB2fgvt/iPw+2OkQgWzLVp4Nkm2ZL8Uq31ryjWzMec+Tw9X4Og==",
+  "success": true,
+  "projectFilePath": "/Users/c4rtex/Projects/TopTenJobPages/TopTenJobPages/TopTenJobPages.csproj",
+  "expectedPackageFiles": [
+    "/Users/c4rtex/.nuget/packages/htmlagilitypack/1.11.54/htmlagilitypack.1.11.54.nupkg.sha512",
+    "/Users/c4rtex/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/c4rtex/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/c4rtex/.nuget/packages/selenium.webdriver/4.14.1/selenium.webdriver.4.14.1.nupkg.sha512",
+    "/Users/c4rtex/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

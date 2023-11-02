@@ -1,0 +1,61 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.containerJobs {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    overflow-x: auto;
+    max-height: 500px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.header {
+    background-color: #0074b8; /* Color de fondo del encabezado */
+    color: white; /* Color del texto del encabezado */
+    padding: 10px; /* Espaciado del encabezado */
+    display: flex;
+    align-items: center; /* Centra verticalmente los elementos */
+    justify-content: center; /* Centra horizontalmente los elementos */
+    width: 100%;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+}
+
+.bi.bi-linkedin {
+    font-size: 24px; /* Ajusta el tamaño del icono según tus preferencias */
+    margin-right: 10px; /* Espacio entre el icono y el texto */
+}
+
+.jobCard {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px; /* Espaciado entre los elementos jobCard */
+}
+
+
